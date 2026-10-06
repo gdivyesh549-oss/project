@@ -112,7 +112,7 @@ Checkout
 Place Order
     ↓
 Order Confirmation
-```
+
 
 ## 🖥️ Main Pages
 

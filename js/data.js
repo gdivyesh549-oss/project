@@ -1,7 +1,7 @@
 const ROOT=location.pathname.includes('/pages/')?'../':'';
 
 const BRAND={
-  name:'Sai Food delivery App',
+  name:'Food delivery App',
   tag:'Delicious food. Delivered to your door.'
 }; // change brand here
 
